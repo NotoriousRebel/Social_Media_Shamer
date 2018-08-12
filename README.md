@@ -11,4 +11,7 @@ Currently just Linkedin and Twitter; however, I am planning to add more.
 You can also pass in a custom url and the form data for the login page and the credentials will be tested against that site as well. (soon)
 
 ### How to use it?
-```pip install -r requirements.txt``` and to run ```social_media_shamer.py -user username -passw password```
+```pip install -r requirements.txt``` and to run 
+```social_media_shamer.py -user username -passw password``` or 
+```social_media_shamer.py -f path\to\txtfile -ft```
+
