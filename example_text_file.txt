@@ -1,0 +1,10 @@
+Username password
+adminstrator 123456
+user1 qwerty
+admin abc1234
+alex letmein
+pos monkey
+demo myspace1
+guest password1
+test link182
+root myname
