@@ -2,7 +2,7 @@
 Breaches happen all the time, it would be a shame if people used those credentials for their social media accounts.
 
 ### What is this tool?
-Written in Python 3.5 and utilizing requests and bs4, this tool takes in a set of credentails or a text file of credentials and runs them against numerous social media sites and determines if they are valid.
+Written in Python 3.5 and utilizing requests and bs4, this tool takes in a set of credentails or a text file of credentials and runs them against numerous social media sites and determines if they are valid. If entering a text file see example text file. 
 
 ### What does it test against at the moment?
 Currently just Linkedin and Twitter; however, I am planning to add more. 
