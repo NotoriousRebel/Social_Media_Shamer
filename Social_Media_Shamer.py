@@ -6,7 +6,7 @@ def parseArgs():
     parser.add_argument('-u', help="enter -u followed by username to test", type=str)
     parser.add_argument('-p', help="enter -p followed by password to test", type=str)
     parser.add_argument('-f', help="enter -f followed by path to text file, formatted as username password",type=str)
-    parser.add_argument('-ft',help="if using a file enter -fT to indicate you are",action="store_true") #store as boolean
+    parser.add_argument('-ft',help="if using a file enter -ft to indicate you are",action="store_true") #store as boolean
     args = parser.parse_args() #get args
     output = []
     if args.u is not None:
